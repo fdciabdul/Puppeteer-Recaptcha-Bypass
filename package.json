@@ -4,7 +4,7 @@
   },
   "name": "puppeteer-recaptcha-bypass",
   "description": "Solving recaptcha with puppeteer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "RecaptchaBypass.js",
   "directories": {
     "example": "example"
