@@ -1,7 +1,6 @@
 # Puppeteer-Recaptcha-Bypass
 
-Solving recaptcha with puppeteer
-
+Solving recaptcha with puppeteer , original from [danielgatis](https://github.com/danielgatis/puppeteer-recaptcha-solver) but with some improvment and more fix bug
 ### Requirements : 
 
 - puppeteer latest version
